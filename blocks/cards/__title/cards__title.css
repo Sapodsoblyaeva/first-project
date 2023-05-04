@@ -1,0 +1,8 @@
+
+.cards__title {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto 0;
+  text-align: center;
+}

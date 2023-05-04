@@ -1,0 +1,6 @@
+.section__title {
+  display: flex;
+  justify-content: center;
+  width: 60vw;
+  margin: 0 auto 0;
+}

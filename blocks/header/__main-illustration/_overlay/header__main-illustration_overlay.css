@@ -1,0 +1,6 @@
+.header__main-illustration_overlay {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}

@@ -1,0 +1,6 @@
+.section__subtitle {
+  display: flex;
+  justify-content: center;
+  width: 60vw;
+  margin: 20px auto 0;
+}
